@@ -1,6 +1,6 @@
 A mern-stack  Reviewer app for travellers. They can share reviews of places they visit on an interactive ui screen.
 
-##features:
+## Features:
  - Users can sign up and sign in.
  - Signed in users can add pins/reviews to a place 
  - Signed in users can differentiate their pins from others
