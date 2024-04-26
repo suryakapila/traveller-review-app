@@ -1,5 +1,16 @@
-a mern-stack app for travellers. They can share reviews of places they visit on an interactive ui screen.
+A mern-stack  Reviewer app for travellers. They can share reviews of places they visit on an interactive ui screen.
+
+##features:
+ - Users can sign up and sign in.
+ - Signed in users can add pins/reviews to a place 
+ - Signed in users can differentiate their pins from others
+ - Data is saved in mongoDB
+ - Real Time notifications to better user experience using react-toastify
+ - Can add/update/view and delete pins as a User.
+
+
 # travel-app
+
 
 <img width="1430" alt="Screenshot 2024-04-26 at 12 49 26 PM" src="https://github.com/suryakapila/traveller-review-app/assets/34037638/3eec35ad-c7e3-4a76-a43e-5519fb7c6a89">
 
