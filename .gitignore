@@ -1,0 +1,29 @@
+#ignore mac system files
+.DS_Store
+
+#ignore node_modules
+backend/node_modules
+frontend/travel-app/node_modules
+
+#ignore build files
+backend/build
+frontend/travel-app/build
+
+#ignore logs
+logs
+
+#ignore coverage
+coverage
+
+#ignore .env
+backend/.env
+frontend/travel-app/.env
+
+#ignore .env.example
+.env.example
+
+#ignore .env.local
+.env.local
+
+#ignore .env.development
+.env.development

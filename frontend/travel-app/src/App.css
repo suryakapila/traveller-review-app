@@ -1,0 +1,133 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card{
+  width: 250px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position:relative;
+  border-radius: 5px;
+  border:none;
+}
+
+.icon{
+  cursor: pointer;
+}
+
+.place{
+  font-size: 14px;
+}
+
+label{
+  color: blue;
+  font-size: 12px;
+  border-bottom: 1.5px solid darkblue;
+  margin: 3px 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.desc{
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.info{
+  display: flex;
+  justify-content:space-between;
+  flex-direction: row;
+  color: grey;
+}
+
+.stars{
+  color: goldenrod;
+}
+
+form{
+  width: 250px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+
+input,textarea{
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+}
+
+input::placeholder, textarea::placeholder{
+  font-size: 12px;
+  color: grey;
+}
+
+.submitButton{
+ border:none;
+ border-radius: 5px;
+ background-color: rgba(244, 104, 44, 0.962);
+ color:white;
+ padding: 5px;
+}
+
+.submitButton:hover{
+  background-color: orangered;
+}
+
+.footer{
+  position: absolute;
+  display: flex;
+  padding: 10px;
+  flex-direction: row;
+  height: auto;
+  width: 100%;
+  background-color: rgb(16,29,49);
+  z-index: 100;
+  bottom: 0;
+  justify-content: center;
+}
+
+.footer:hover{
+  cursor: pointer;
+  box-shadow: rgba(136,165,191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.1) -6px -2px 16px 0px;
+}
+
+.button{
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  margin-right: 15px;
+}
+
+.logout{
+  background-color: tomato;
+}
+
+.logout:hover{
+  background-color: darkred;
+}
+
+.login{
+  background-color: rgba(6, 221, 221, 0.833);
+}
+
+.register{
+  background-color: rgba(59, 188, 59, 0.855);
+}
+
+.register:hover{
+  background-color: darkgreen;
+}
+
+.login:hover{
+  background-color: darkcyan;
+}
+
