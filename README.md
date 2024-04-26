@@ -17,4 +17,4 @@ a mern-stack app for travellers. They can share reviews of places they visit on 
 <img width="1039" alt="Screenshot 2024-04-26 at 12 56 05 PM" src="https://github.com/suryakapila/traveller-review-app/assets/34037638/ba75b378-2d5a-4c15-8160-d56856643cbd">
 
 
-credits to  [LEAD ENGINEER}(https://www.youtube.com/watch?v=rtK4f5w01to) 
+credits to  [LEAD ENGINEER](https://www.youtube.com/watch?v=rtK4f5w01to) 
